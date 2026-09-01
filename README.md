@@ -40,12 +40,6 @@ This repository serves as a technical portfolio documenting my journey in Vulner
 3. picoCTF 
      - Challenges Write-up [read here](https://simplify-it.notion.site/PicoCTF-challenges-writeup-338cf3d807e08000a78ad3e20d0bf308) 
      
-
-
-### General Troubleshooting
- - VirtualBox USB Passthrough Troubleshooting
-   - **Problem:** `VERR_PDM_NO_USB_PORTS` error when connecting USB to VirtualBox VM
-   - **Solution Writeup:** [How to Fix VirtualBox USB Passthrough Issues on Windows](https://medium.com/@anjalcy/how-to-fix-virtualbox-usb-passthrough-issues-on-windows-verr-pdm-no-usb-ports-error-ba6de368f07d)
 ---
 
 # Notes
@@ -55,6 +49,13 @@ This repository serves as a technical portfolio documenting my journey in Vulner
   -  CyberChef : [Read here](https://www.notion.so/simplify-it/CyberChef-Writeup-338cf3d807e080da84f6ff39cef89989)
 <!--[- OWASP Top 10 : [Read here](https://www.notion.so/337cf3d807e08015a4a3e421fa3ce9db?pvs=25#337cf3d807e080529053f3c87a1db0e7)-->
 <!-- [- Digital forensics [Read here](https://www.notion.so/Digital-Forensics-simplified-334cf3d807e080ab89c6d7fbe50c0003)] -->
+
+---
+
+# General Troubleshooting
+  - VirtualBox USB Passthrough Troubleshooting
+     - **Problem:** `VERR_PDM_NO_USB_PORTS` error when connecting USB to VirtualBox VM
+     - **Solution Writeup:** [How to Fix VirtualBox USB Passthrough Issues on Windows](https://medium.com/@anjalcy/how-to-fix-virtualbox-usb-passthrough-issues-on-windows-verr-pdm-no-usb-ports-error-ba6de368f07d)
 
 ---
 
