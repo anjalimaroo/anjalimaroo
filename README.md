@@ -20,12 +20,12 @@ This repository serves as a technical portfolio documenting my journey in Vulner
 ---
 
 # Skills
-- ***Network Scanning & Enumeration*** : Nmap (service detection, scripting, recon automation)
+- ***Network Scanning & Enumeration*** : Nmap, 
 - ***Brute Force & Cracking*** : Hydra, Hashcat (password attacks & hash analysis)
-- ***Web Security Testing*** : Burp Suite (interception, basic vulnerability testing)
-- ***Digital Forensics*** : System Log Analysis
-- ***Programming*** : Python,<!-- C, C++,--> Java
-- ***General skills*** : HTML, CSS, JS
+- ***Web Security Testing*** : Burp Suite, OpenVAS
+- ***Digital Forensics*** : System Log Analysis, Autopsy
+- ***Programming*** : Python, C, C++, Java
+- ***General skills*** : HTML, CSS, JS, PHP, Go, Bash Scripting
 
 ---
 
