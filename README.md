@@ -58,4 +58,4 @@ This repository serves as a technical portfolio documenting my journey in Vulner
 
 ---
 
-Last Updated: 10 August 2026, 11:43 PM IST
+Last Updated: 01 September 2026, 07:09 PM IST
