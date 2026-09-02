@@ -15,7 +15,7 @@ This repository serves as a technical portfolio documenting my journey in Vulner
 
 # Profiles
 - **TryHackMe** : Ranked in top 4% (93638) [link](https://tryhackme.com/p/anjalicy)
-- **CyLab (earlier picoCTF)** : 50 Easy, 6 Medium Challenges Solved [link](https://learn.cylabacademy.org/users/anjalimaroo)
+- **CyLab (earlier picoCTF)** : 62 Easy, 6 Medium Challenges Solved [link](https://learn.cylabacademy.org/users/anjalimaroo)
 
 ---
 
