@@ -53,4 +53,4 @@ This repository serves as a technical portfolio documenting my journey in Vulner
      - **Solution Writeup:** [How to Fix VirtualBox USB Passthrough Issues on Windows](https://medium.com/@anjalcy/how-to-fix-virtualbox-usb-passthrough-issues-on-windows-verr-pdm-no-usb-ports-error-ba6de368f07d)
 
 
-Last Updated: 02 September 2026, 11:27 PM IST
+Last Updated: 03 September 2026, 11:31 PM IST
