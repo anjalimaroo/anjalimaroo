@@ -51,6 +51,3 @@ This repository serves as a technical portfolio documenting my journey in Vulner
   - VirtualBox USB Passthrough Troubleshooting
      - **Problem:** `VERR_PDM_NO_USB_PORTS` error when connecting USB to VirtualBox VM
      - **Solution Writeup:** [How to Fix VirtualBox USB Passthrough Issues on Windows](https://medium.com/@anjalcy/how-to-fix-virtualbox-usb-passthrough-issues-on-windows-verr-pdm-no-usb-ports-error-ba6de368f07d)
-
-
-Last Updated: 03 September 2026, 11:31 PM IST
