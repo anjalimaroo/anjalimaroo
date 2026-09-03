@@ -1,8 +1,6 @@
 # Hey there
-
 This repository serves as a technical portfolio documenting my journey in Vulnerability Assessment and Penetration Testing (VAPT). It includes structured notes, CTF writeups, published articles, professional profiles, and a breakdown of my technical skills. It reflects my hands-on experience in identifying, exploiting, and documenting vulnerabilities across diverse environments, attack surfaces, and real-world penetration testing scenarios.
 
----
 
 # Structure
 - [Profiles](#profiles)
@@ -11,13 +9,11 @@ This repository serves as a technical portfolio documenting my journey in Vulner
 - [Stuff-Simplified](#stuff-Simplified)
  <!-- -[Projects](#projects) -->
 
----
 
 # Profiles
 - **TryHackMe** : Ranked in top 4% (93638) [link](https://tryhackme.com/p/anjalicy)
 - **CyLab (earlier picoCTF)** : 62 Easy, 6 Medium Challenges Solved [link](https://learn.cylabacademy.org/users/anjalimaroo)
 
----
 
 # Skills
 - ***Network Scanning & Enumeration*** : Nmap, 
@@ -27,7 +23,6 @@ This repository serves as a technical portfolio documenting my journey in Vulner
 - ***Programming*** : Python, C, C++, Java
 - ***General skills*** : HTML, CSS, JS, PHP, Go, Bash Scripting
 
----
 
 # FEATURED
 ### CTF-writeups
@@ -40,7 +35,6 @@ This repository serves as a technical portfolio documenting my journey in Vulner
 3. picoCTF 
      - Challenges Write-up [read here](https://simplify-it.notion.site/PicoCTF-challenges-writeup-338cf3d807e08000a78ad3e20d0bf308) 
      
----
 
 # Notes
 - Operating systems:
@@ -52,13 +46,11 @@ This repository serves as a technical portfolio documenting my journey in Vulner
 <!--[- OWASP Top 10 : [Read here](https://www.notion.so/337cf3d807e08015a4a3e421fa3ce9db?pvs=25#337cf3d807e080529053f3c87a1db0e7)-->
 <!-- [- Digital forensics [Read here](https://www.notion.so/Digital-Forensics-simplified-334cf3d807e080ab89c6d7fbe50c0003)] -->
 
----
 
 # General Troubleshooting
   - VirtualBox USB Passthrough Troubleshooting
      - **Problem:** `VERR_PDM_NO_USB_PORTS` error when connecting USB to VirtualBox VM
      - **Solution Writeup:** [How to Fix VirtualBox USB Passthrough Issues on Windows](https://medium.com/@anjalcy/how-to-fix-virtualbox-usb-passthrough-issues-on-windows-verr-pdm-no-usb-ports-error-ba6de368f07d)
 
----
 
 Last Updated: 02 September 2026, 11:27 PM IST
